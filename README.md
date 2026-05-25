@@ -8,8 +8,17 @@
 
 | 主題 | 一行摘要 | 路徑 | 更新日期 |
 |---|---|---|---|
+| Transformer 注意力機制 | 讓每個詞同時讀懂整句話的核心設計：Q、K、V 與 Multi-Head Attention | [tech/ai-ml/transformer-attention.md](tech/ai-ml/transformer-attention.md) | 2026-05-25 |
 | 小波轉換 | 給傅立葉裝上時間之眼，輸出時間 × 頻率二維熱力圖 | [science/physics/wavelet-transform.md](science/physics/wavelet-transform.md) | 2026-05-25 |
 | 傅立葉轉換 | 把複雜的波拆成簡單的音，無損地在時間域與頻率域之間切換 | [science/physics/fourier-transform.md](science/physics/fourier-transform.md) | 2026-05-25 |
+
+---
+
+## Tech
+
+### AI / ML
+
+- [Transformer 注意力機制](tech/ai-ml/transformer-attention.md) — 讓每個詞同時讀懂整句話的核心設計：Q、K、V 與 Multi-Head Attention *(2026-05-25)*
 
 ---
 
